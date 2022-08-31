@@ -1,0 +1,56 @@
+body{
+  background: rgb(72, 219, 189);
+  margin-top: 0;
+}
+#canvas{
+  background: rgba(69, 148, 242, 0.74);
+  border: 10px outset gray;
+  border-radius: 0 0 20px 20px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 15px 15px 10px 10px rgba(108, 82, 105, 0.5);
+}
+#affichage{
+  position: relative;
+  top: 10px;
+  z-index: -1;
+  margin: 0 auto;
+  width: 900px;
+  height: 40px;
+  background: rgba(108, 82, 105, 0.5);
+  border: 10px outset gray;
+  border-radius: 20px 20px 0 0;
+  box-shadow: 25px 0 9px 0px rgba(108, 82, 105, 0.5);
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  text-shadow: 5px 5px 5px black;
+}
+#tige{
+  background: rgba(128, 128, 128, 0.85);
+  width: 90px;
+  height: 40px;
+  margin: 0 auto;
+  border: 5px solid gray;
+  box-shadow: 15px 15px 10px rgba(108, 82, 105, 0.5);
+
+}
+#pieds{
+  position: relative;
+  bottom: 5px;
+  background: rgba(149, 132, 147, 1);
+  width: 500px;
+  height: 30px;
+  margin: 0 auto;
+  line-height: 30px;
+  border: 10px solid gray;
+  border-radius: 20px;
+  box-shadow: 15px 15px 10px 10px rgba(108, 82, 105, 0.5);
+  font-size: 25px;
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  text-shadow: 2px 2px 5px black;
+  font-weight: bold;
+}
