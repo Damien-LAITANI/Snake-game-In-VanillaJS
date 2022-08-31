@@ -11,3 +11,5 @@ Besoin d'une pause ? Appuyer sur la touche __Entrée__ de votre clavier.
 Pour commencer une partie, il suffit d'appuyer sur une des __flèches__ du clavier. 
 
 Bon jeu !
+
+https://damien-laitani.github.io/Snake-game-In-VanillaJS/
